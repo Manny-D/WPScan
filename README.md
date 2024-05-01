@@ -44,7 +44,7 @@ In this demonstration / walkthrough, a vulnerability scan was conducted against 
 
 <br>
 
-### Basic Security Scan =
+### Basic Security Scan
 
 No specific parameters will be specified. Generic security issues can be identified here. <br>
 
