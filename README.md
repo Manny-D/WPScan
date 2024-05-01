@@ -15,22 +15,21 @@ This lab was part of an online course that presented an overview of [WPScan](htt
 
 [WordPress](https://wordpress.com) is a popular website creation tool used by over a third of all websites. It allows users to easily build and manage websites with features like plugins, themes, and user accounts, but these features can also introduce security vulnerabilities.
 
-Plugins:
+<br>
 
-- Enhance WordPress with functionalities like editors, forms, security monitoring, etc.
+Plugins: <br>
+Enhance WordPress with functionalities like editors, forms, security monitoring, etc.
 - Free plugins from small teams or with infrequent updates can introduce security risks.
 - WPScan identifies vulnerabilities in plugins that could be exploited by attackers.
 
-Themes:
-
-- Control the look and feel of your WordPress site.
+Themes: <br>
+Control the look and feel of your WordPress site.
 - Similar to plugins, themes can have vulnerabilities that attackers can exploit.
-- Update or remove vulnerable themes to fix the issue.
 - Popular, frequently updated themes are generally safer.
+- Update or remove vulnerable themes to fix the issue.
 
-Users:
-
-- WordPress allows user registration for specific site access (e.g., purchasing courses).
+Users: <br>
+WordPress allows user registration for specific site access (e.g., purchasing courses).
 - Attackers might try to gain access through brute-forcing passwords or social engineering.
 - Leaked usernames make attacks easier. WPScan helps identify username leaks.
 
