@@ -1,7 +1,10 @@
 # WPScan
 
-![WPScan Header Image](https://github.com/Manny-D/WPScan/assets/99146530/c6d3ea0c-6b13-4b00-b906-37804102c49d)
+<p align="center">
+  <img src="https://github.com/Manny-D/WPScan/assets/99146530/c6d3ea0c-6b13-4b00-b906-37804102c49d" />
+</p>
 
+<br>
 
 ## Description
 
